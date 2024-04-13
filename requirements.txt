@@ -1,0 +1,7 @@
+pyMuPDF
+spacy
+re
+sentence-transformers
+pandas
+torch
+numpy
